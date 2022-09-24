@@ -86,5 +86,14 @@ public class Main {
             System.out.println(e);
            }
         }
+
+        // Задание 2
+        System.out.println();
+        System.out.println("Задание 2");
+        int f = 2;
+        int l = 1;
+        for (l = 1; l <= 10; l++) {
+            System.out.println("2*" + l + "=" + f * l);
+        }
     }
 }
